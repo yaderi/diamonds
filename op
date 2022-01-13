@@ -101,7 +101,7 @@ if game.PlaceId == 1765700510 then
                                                     )
                                                 end
                                             )
-                                            wait(45)
+                                            wait(9)
                                         end
                                     end
                                 end
